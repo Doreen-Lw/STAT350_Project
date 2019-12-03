@@ -2,9 +2,9 @@
 
 > The project of Happiness score analysis study
 
-> Dataset retrieved from: https://worldhappiness.report/ed/2016/.
+> Dataset retrieved from: https://worldhappiness.report/ed/2016/
 
-![dataset example](https://github.com/Doreen-Lw/STAT350_Project/blob/README-edit/dataset.jpg)
+![dataset example](https://github.com/Doreen-Lw/STAT350_Project/blob/master/dataset.jpg)
 
 - response variable: Happiness score
 - regressors: Economy, social support, health, freedom, trust, and dystopia
